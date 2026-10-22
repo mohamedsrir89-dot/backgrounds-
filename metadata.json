@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy S26 Live Wallpaper & Cosmic Odyssey",
+  "description": "Flagship Galaxy S26 interactive live wallpaper studio featuring real-time volumetric nebulae, customizable star density, dynamic touch turbulence, and an interactive 3D cosmic explorer game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
